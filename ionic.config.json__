@@ -1,0 +1,10 @@
+{
+  "name": "af1App",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}

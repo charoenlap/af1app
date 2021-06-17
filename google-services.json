@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481701175837",
+    "firebase_url": "https://af1express.firebaseio.com",
+    "project_id": "af1express",
+    "storage_bucket": "af1express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481701175837:android:d6d0601eb3499830415cf4",
+        "android_client_info": {
+          "package_name": "io.ionic.starter.af1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481701175837-5rarteq9nq6m0cg06oq15o2okv5gpri9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkYRFDRmg21qdad9jMov5y51k9P57Q3s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481701175837-5rarteq9nq6m0cg06oq15o2okv5gpri9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
